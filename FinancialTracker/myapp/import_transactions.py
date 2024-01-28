@@ -16,4 +16,4 @@ def import_books(file_path):
 
 if __name__ == '__main__':
     csv_file_path = 'path/to/books.csv'  # Replace with your actual file path
-    import_books(csv_file_path)
+    import_books(csv_file_path) # as
